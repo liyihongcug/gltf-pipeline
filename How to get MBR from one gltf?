@@ -1,0 +1,13 @@
+How to get MBR from one gltf?
+
+for examle, Mbr in one json of 3d tiles
+"root": {
+    "boundingVolume": {
+      "region": [
+        -1.2960028825819643,
+        0.7068325938171807,
+        -1.286308749045535,
+        0.7141023380151126,
+        -11.892070104139751,
+        547.7591871983744
+      ]
